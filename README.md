@@ -1,1 +1,1 @@
-Introductory to Hang<am Game
+Introductory to Hangman Game
